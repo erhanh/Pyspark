@@ -1,5 +1,4 @@
 # Pyspark
-Implementing Machine Learninig Applications in Pyspark environment: Financial Case
-Case Statement
-A leading financial bank is trying to broaden the financial inclusion for the unbanked population by proving a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience; it makes use of variety of alternative data—including telco and transactional information—to predict their clients’ repayment abilities.
-The problem is to develop a solution to ensure that the clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
+A leading financial bank is aiming to broaden the financial inclusion of the unbanked population by proving a positive and safe borrowing experience. In order to better understand what makes a positive loan-experience or possible challenges in providing a good loan service, the bank is focusing on using diverse and a large amount of data sets, including but not limited to telco and transactional information. The overall goal is to predict the clients’ repayment abilities in relation to their banking characteristics. 
+
+Through data analysis and using the results, the bank is planning to develop a new financial service where the clients who are capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar. The new service envisioned to empower the clients to be successful in paying back their loans.
